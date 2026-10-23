@@ -1,0 +1,2 @@
+INSERT INTO EMP
+VALUES (107, 'AMIT', 10, 'HR', 'Male', 30, 60000);
